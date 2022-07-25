@@ -32,7 +32,7 @@
             "Rice, raw": {
                 "Calories": 362,
                 "TotalCarbohydrate": 76.17,
-                "LinoleicAcid": 0.918,
+                "LinoleicAcid": 0.918, 
                 "AlphaLinoleicAcid": 0.041,
                 "Protein": 7.50,
                 "DietaryFiber": 3.4,
