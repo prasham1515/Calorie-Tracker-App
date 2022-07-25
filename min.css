@@ -239,7 +239,7 @@ body {
     color: #4f4d4b;
     font-weight: bold;
     font-family: 'Hind Siliguri', sans-serif;
-    font-size: 12px;
+    font-size: 12px; 
 }
 
 .btnDelete:hover {
